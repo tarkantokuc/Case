@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WfQ+scu64TVouzlMKZNoQC6IzRxeSbdLqMr6VftaQiI=",
+  "Source": "StockTracking.API",
+  "BasePath": "_content/StockTracking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
